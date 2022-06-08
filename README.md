@@ -8,7 +8,7 @@ If you want to train you own model feel free to do by editing and running handwr
 
 ## Using Pygame and Digit recognition
 
-In order to run the pygae interface, run the command
+In order to run the pygame interface, run the command
 " python3 recognition.py <name of the model> "
 
 In my case
